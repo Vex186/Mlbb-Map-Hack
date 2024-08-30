@@ -1,0 +1,7 @@
+1.mlbb.sh and vexx file move to data/local/tmp
+
+2.chmod 777
+
+3. run game
+
+4. execute mlbb.sh
